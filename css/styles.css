@@ -1,0 +1,10 @@
+body {
+    background-color: cadetblue;
+    color: cornsilk;
+}
+
+img {
+    border-radius: 10%;
+    width: 20%;
+    height: 20%;
+}
